@@ -1,0 +1,3 @@
+[submodule "VueJS/TodoListVue"]
+	path = VueJS/TodoListVue
+	url = https://github.com/ValerieGM/TodoListVue.git

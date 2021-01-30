@@ -1,3 +1,6 @@
 [submodule "VueJS/TodoListVue"]
 	path = VueJS/TodoListVue
 	url = https://github.com/ValerieGM/TodoListVue.git
+[submodule "Python/Learn-Python-The-Hard-Way"]
+	path = Python/Learn-Python-The-Hard-Way
+	url = https://github.com/ValerieGM/Learn-Python-The-Hard-Way.git

@@ -4,3 +4,6 @@
 [submodule "Python/Learn-Python-The-Hard-Way"]
 	path = Python/Learn-Python-The-Hard-Way
 	url = https://github.com/ValerieGM/Learn-Python-The-Hard-Way.git
+[submodule "C#/MovieTutorial/MvcMovieTutorial"]
+	path = "C#/MovieTutorial/MvcMovieTutorial"
+	url = https://github.com/ValerieGM/MvcMovieTutorial
